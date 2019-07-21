@@ -9,7 +9,7 @@ Working Java JDK 8 System, [Click Here](https://www.oracle.com/technetwork/java/
 
 
 
-<h1> Made By: </h1></br>
+<h3> Made By: </h3></br>
 Himmat Khangura </br>
 Mohamed Mohamed </br>
 Chadi Garzeddine </br>
