@@ -19,7 +19,7 @@ public class TextBased {
 	for(int j=0; j<COLUMNS; j++) {
 
 	alienShips[i + 1][j] = alienShips[i][j];
-
+ 
 	}
 
 	}
