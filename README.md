@@ -3,7 +3,7 @@
 
 
 # System Requirments
-Working Java System, [Click Here](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+Working Java JDK 8 System, [Click Here](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 
 
