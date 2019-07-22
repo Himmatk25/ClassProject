@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class SpaceInvaderTextBased2 {
+public class TextBased2 {
 
 	static int ROWS = 10, COLUMNS = 10;
 	static Random random = new Random();
