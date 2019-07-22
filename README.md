@@ -10,8 +10,8 @@ Working Java JDK 8 System, <a href  = "https://www.oracle.com/technetwork/java/j
 2) Download the files under the main branch as a ZIP file</br>
 3) Extract files and check you have everything on the GitHub file</br>
 4) Open computer's terminal</br>
-5) Compile:javac textBased.java</br>
-6) Run: java TextBased
+5) Compile:javac SpaceInvaderTextBased2.java</br>
+6) Run: java SpaceInvadersTextBased
 
 
 
