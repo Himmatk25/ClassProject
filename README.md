@@ -11,7 +11,7 @@ Working Java JDK 8 System, <a href  = "https://www.oracle.com/technetwork/java/j
 3) Extract files and check you have everything on the GitHub file</br>
 4) Open computer's terminal</br>
 5) Compile: javac TextBased2.java</br>
-6) Run: java TextBased
+6) Run: java TextBased2
 
 
 
